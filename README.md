@@ -9,6 +9,7 @@ API construída em .NET 6, simulando criação de conta em uma corretora, compra
 * [General info](#general-info)
 * [Installation](#installation)
 * [Usage](#usage)
+*[Tests](#tests)
 
 
 ## Prerequisites
